@@ -1,0 +1,561 @@
+{
+  "editable": 1,
+  "text": "",
+  "font": {
+    "size": 100,
+    "weight": "normal",
+    "name": "Dune Rise Regular",
+    "src": "16897.otf"
+  },
+  "align": "center",
+  "rotate": 0,
+  "lineHeight": 0.79,
+  "letterSpacing": 0.14,
+  "mergeGradients": 0,
+  "lettering": {
+    "editable": 1,
+    "active": 1,
+    "blendmode": "over",
+    "boggle": {
+      "active": 0,
+      "angle": 12,
+      "amplitude": 0.1
+    },
+    "reverseOverlap": {
+      "letters": 1,
+      "lines": 0
+    },
+    "shadow": {
+      "active": 0,
+      "size": 0.04,
+      "distance": 0.02,
+      "angle": 180,
+      "fill": {
+        "alpha": 1,
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      }
+    }
+  },
+  "distort": {
+    "arc": {
+      "angle": 0
+    }
+  },
+  "processing": {},
+  "fill": {
+    "editable": 1,
+    "active": 1,
+    "alpha": 0.76,
+    "color": {
+      "r": 28,
+      "g": 211,
+      "b": 96
+    },
+    "texture": {
+      "active": 0,
+      "alpha": 1,
+      "blendmode": "over",
+      "src": null,
+      "repeat": "repeat",
+      "position": "left top",
+      "size": 1,
+      "lettering": 0
+    },
+    "gradient": {
+      "active": 0,
+      "angle": 0,
+      "colors": [
+        {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "pos": 0,
+          "a": 1
+        },
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "pos": 1,
+          "a": 1
+        }
+      ]
+    },
+    "palette": {
+      "active": 1,
+      "lettering": {
+        "method": "letter"
+      },
+      "styles": []
+    }
+  },
+  "depth": {
+    "editable": 1,
+    "active": 0,
+    "length": 0.2,
+    "angle": 135,
+    "fill": {
+      "alpha": 1,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "mergeAlpha": 0,
+      "gradient": {
+        "active": 1,
+        "type": "depth",
+        "angle": 0,
+        "colors": [
+          {
+            "r": 200,
+            "g": 200,
+            "b": 200,
+            "pos": 0,
+            "a": 1
+          },
+          {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "pos": 1,
+            "a": 1
+          }
+        ]
+      },
+      "texture": {
+        "active": 0,
+        "alpha": 1,
+        "blendmode": "over",
+        "src": null,
+        "repeat": "repeat",
+        "position": "center",
+        "size": 1
+      }
+    }
+  },
+  "depth2": {
+    "editable": 1,
+    "active": 0,
+    "length": 0.2,
+    "angle": 135,
+    "fill": {
+      "alpha": 1,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "mergeAlpha": 0,
+      "gradient": {
+        "active": 1,
+        "type": "depth",
+        "angle": 0,
+        "colors": [
+          {
+            "r": 200,
+            "g": 200,
+            "b": 200,
+            "pos": 0,
+            "a": 1
+          },
+          {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "pos": 1,
+            "a": 1
+          }
+        ]
+      },
+      "texture": {
+        "active": 0,
+        "alpha": 1,
+        "blendmode": "over",
+        "src": null,
+        "repeat": "repeat",
+        "position": "center",
+        "size": 1
+      }
+    }
+  },
+  "outline": {
+    "first": {
+      "editable": 1,
+      "active": 0,
+      "width": 0.1,
+      "dash": 0,
+      "join": "miter",
+      "fill": {
+        "alpha": 1,
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "gradient": {
+          "active": 1,
+          "angle": 90,
+          "colors": [
+            {
+              "r": 98,
+              "g": 0,
+              "b": 163,
+              "pos": 0,
+              "a": 1
+            },
+            {
+              "r": 255,
+              "g": 0,
+              "b": 128,
+              "pos": 0.52,
+              "a": 1
+            },
+            {
+              "r": 255,
+              "g": 123,
+              "b": 0,
+              "pos": 1,
+              "a": 1
+            }
+          ]
+        },
+        "palette": {
+          "active": 0,
+          "lettering": {
+            "method": "letter"
+          },
+          "styles": []
+        },
+        "texture": {
+          "active": 0,
+          "alpha": 1,
+          "blendmode": "over",
+          "src": null,
+          "repeat": "repeat",
+          "position": "center",
+          "size": 1,
+          "lettering": 0
+        }
+      }
+    },
+    "second": {
+      "editable": 1,
+      "active": 0,
+      "width": 0.1,
+      "dash": 0,
+      "join": "round",
+      "fill": {
+        "alpha": 1,
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "gradient": {
+          "active": 0,
+          "angle": 0,
+          "colors": [
+            {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "pos": 0,
+              "a": 1
+            },
+            {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "pos": 1,
+              "a": 1
+            }
+          ]
+        },
+        "palette": {
+          "active": 0,
+          "lettering": {
+            "method": "letter"
+          },
+          "styles": []
+        },
+        "texture": {
+          "active": 0,
+          "alpha": 1,
+          "blendmode": "over",
+          "src": null,
+          "repeat": "repeat",
+          "position": "center",
+          "size": 1,
+          "lettering": 0
+        }
+      }
+    },
+    "global": {
+      "editable": 1,
+      "active": 0,
+      "width": 0.1,
+      "join": "round",
+      "mask": 0,
+      "projection": 1,
+      "vector": 1,
+      "shadow": {
+        "active": 0,
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "size": 0.5
+      },
+      "fill": {
+        "alpha": 1,
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "gradient": {
+          "active": 0,
+          "angle": 0,
+          "colors": [
+            {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "pos": 0,
+              "a": 1
+            },
+            {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "pos": 1,
+              "a": 1
+            }
+          ]
+        },
+        "texture": {
+          "active": 0,
+          "alpha": 1,
+          "blendmode": "over",
+          "src": null,
+          "repeat": "repeat",
+          "position": "center",
+          "size": 1
+        }
+      }
+    }
+  },
+  "bevel": {
+    "inner": {
+      "editable": 1,
+      "active": 0,
+      "size": 0.1,
+      "smoothing": 0,
+      "soften": 0.1,
+      "angle": 135,
+      "highlight": {
+        "alpha": 1,
+        "blendmode": "over",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "shadow": {
+        "alpha": 1,
+        "blendmode": "over",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      }
+    }
+  },
+  "shadow": {
+    "outer": {
+      "editable": 1,
+      "active": 0,
+      "size": 0.11,
+      "strength": 0,
+      "mask": 0,
+      "distance": 0,
+      "angle": 135,
+      "fill": {
+        "alpha": 1,
+        "color": {
+          "r": 255,
+          "g": 0,
+          "b": 212
+        },
+        "gradient": {
+          "editable": 1,
+          "active": 0,
+          "angle": 0,
+          "colors": [
+            {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "pos": 0,
+              "a": 1
+            },
+            {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "pos": 1,
+              "a": 1
+            }
+          ]
+        }
+      }
+    },
+    "outer2": {
+      "editable": 1,
+      "active": 0,
+      "size": 0.2,
+      "strength": 0,
+      "mask": 0,
+      "distance": 0.1,
+      "angle": 135,
+      "fill": {
+        "alpha": 1,
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 255
+        },
+        "gradient": {
+          "editable": 1,
+          "active": 0,
+          "angle": 0,
+          "colors": [
+            {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "pos": 0
+            },
+            {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "pos": 1
+            }
+          ]
+        }
+      }
+    },
+    "inner": {
+      "editable": 1,
+      "active": 0,
+      "size": 0.2,
+      "strength": 0,
+      "alpha": 1,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "distance": 0.03,
+      "angle": -45,
+      "offset": 0,
+      "erosion": {
+        "size": 0,
+        "vector": 1
+      },
+      "blendmode": "over"
+    },
+    "inner2": {
+      "editable": 1,
+      "active": 0,
+      "size": 0.2,
+      "strength": 0,
+      "alpha": 1,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "distance": 0.03,
+      "angle": 135,
+      "offset": 0,
+      "erosion": {
+        "size": 0,
+        "vector": 1
+      },
+      "blendmode": "over"
+    }
+  },
+  "icon": {
+    "editable": 1,
+    "active": 1,
+    "alpha": 1,
+    "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSIyMjMuMTE0IiBoZWlnaHQ9IjI1Mi45IiB2aWV3Qm94PSIxNi4zIDEuNDA3IDIyMy4xMTQgMjUyLjkiIGRhdGEtYWxyZWFkeS1wYXJzZWQ9IjEiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIwIiB0cmFuc2Zvcm09Im1hdHJpeCgyLjgxIDAgMCAyLjgxIDEuNDA3IDEuNDA3KSI+PHJlY3Qgd2lkdGg9IjYuNDMiIGhlaWdodD0iMTcuMDMiIHg9IjUuMyIgeT0iMzYuNDkiIGZpbGw9IiMwMDAwMDAiIHJ4PSIwIiByeT0iMCIgY2xhc3M9ImNvbG9yMDAwMDAwIi8+PHJlY3Qgd2lkdGg9IjYuNDMiIGhlaWdodD0iNTMuNTEiIHg9IjE3LjQ2IiB5PSIxOC4yNCIgZmlsbD0iIzAwMDAwMCIgcng9IjAiIHJ5PSIwIiBjbGFzcz0iY29sb3IwMDAwMDAiLz48cmVjdCB3aWR0aD0iNi40MyIgaGVpZ2h0PSI5MCIgeD0iMjkuNjIiIGZpbGw9IiMwMDAwMDAiIHJ4PSIwIiByeT0iMCIgY2xhc3M9ImNvbG9yMDAwMDAwIi8+PHJlY3Qgd2lkdGg9IjYuNDMiIGhlaWdodD0iNTMuNTEiIHg9IjQxLjc5IiB5PSIxOC4yNCIgZmlsbD0iIzAwMDAwMCIgcng9IjAiIHJ5PSIwIiBjbGFzcz0iY29sb3IwMDAwMDAiLz48cmVjdCB3aWR0aD0iNi40MyIgaGVpZ2h0PSIxNy4wMyIgeD0iNTMuOTUiIHk9IjM2LjQ5IiBmaWxsPSIjMDAwMDAwIiByeD0iMCIgcnk9IjAiIGNsYXNzPSJjb2xvcjAwMDAwMCIvPjxyZWN0IHdpZHRoPSI2LjQzIiBoZWlnaHQ9IjUzLjUxIiB4PSI2Ni4xMSIgeT0iMTguMjQiIGZpbGw9IiMwMDAwMDAiIHJ4PSIwIiByeT0iMCIgY2xhc3M9ImNvbG9yMDAwMDAwIi8+PHJlY3Qgd2lkdGg9IjYuNDMiIGhlaWdodD0iMTcuMDMiIHg9Ijc4LjI3IiB5PSIzNi40OSIgZmlsbD0iIzAwMDAwMCIgcng9IjAiIHJ5PSIwIiBjbGFzcz0iY29sb3IwMDAwMDAiLz48L2c+PHN0eWxlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB0eXBlPSJ0ZXh0L2NzcyIgZGF0YS1yZXBsYWNlLWNvbG9ycz0iMSI+LmNvbG9yMDAwMDAwe2ZpbGw6IzMzZGQ3MTt9PC9zdHlsZT48L3N2Zz4=",
+    "size": 1,
+    "rotate": 0,
+    "position": "left",
+    "composite": "source-over",
+    "offset": {
+      "x": 0.05,
+      "y": 0
+    }
+  },
+  "background": {
+    "editable": 1,
+    "active": 0,
+    "composite": "source-over",
+    "fill": {
+      "alpha": 1,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "image": {
+        "active": 0,
+        "alpha": 1,
+        "src": null,
+        "size": "cover",
+        "repeat": "repeat"
+      },
+      "gradient": {
+        "active": 0,
+        "angle": 0,
+        "type": "linear",
+        "colors": [
+          {
+            "r": 0,
+            "g": 117,
+            "b": 255,
+            "pos": 0,
+            "a": 1
+          },
+          {
+            "r": 0,
+            "g": 211,
+            "b": 255,
+            "pos": 1,
+            "a": 1
+          }
+        ]
+      }
+    }
+  },
+  "animation": {
+    "editable": 1,
+    "active": 1,
+    "id": "",
+    "pause": 1000,
+    "duration": 1000
+  }
+}
